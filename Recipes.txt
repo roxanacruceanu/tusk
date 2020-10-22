@@ -14,3 +14,13 @@ thank you :)
 Done my changes
 
 final copy!
+
+<<<<<<< HEAD
+Sushi
+=======
+<<<<<<< HEAD
+Pesce
+=======
+ciao ciao
+>>>>>>> e105074839184a07981f38fb6d5b4b1ab0ba49a7
+>>>>>>> a7ec7232e0ebe57167e753aba1f64a8a3ec3c0c3
