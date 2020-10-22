@@ -13,4 +13,8 @@ Done my changes
 
 final copy!
 
+<<<<<<< HEAD
 Pesce
+=======
+ciao ciao
+>>>>>>> e105074839184a07981f38fb6d5b4b1ab0ba49a7
